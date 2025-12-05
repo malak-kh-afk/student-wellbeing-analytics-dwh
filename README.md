@@ -1,5 +1,5 @@
 
-# ✅ **Student Burnout Data Warehouse & Analytics Project**
+#  **Student Burnout Data Warehouse & Analytics Project**
 
 ## 🎓 **1. Overview**
 
