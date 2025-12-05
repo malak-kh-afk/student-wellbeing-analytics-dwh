@@ -226,10 +226,3 @@ Load `burnout_dashboard.pbix`.
 ## 🎯 **13. Authors**
 
 * **Malak Kharbech**
-
-
-
-
-
-
-Souhaites-tu ça ?
